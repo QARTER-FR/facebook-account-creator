@@ -15,9 +15,6 @@ https://t.me/danirueaq
 
 ## 🇺🇸 English
 
-### 📌 Overview
-
-This is a full-stack educational simulation of the Facebook signup process, designed for testing form automation, CAPTCHA bypass training, and browser scripting using Selenium or Playwright.
 
 ### 🚀 Features
 
