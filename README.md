@@ -1,4 +1,4 @@
-# Facebook Signup Form Simulator (Educational Use Only)
+# Facebook Signup Form Simulator 
 
 > ⚠️ **Disclaimer**: This project does **not** create real Facebook accounts. It is a training simulation for web automation, UI testing, and CAPTCHA handling. For ethical and legal use only.
 https://t.me/danirueaq
